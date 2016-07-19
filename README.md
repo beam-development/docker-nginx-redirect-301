@@ -6,3 +6,4 @@
 |----------------------|----------------------------------------|
 | REDIRECT_URL         | your target (e.g., http://example.com) |
 | REDIRECT_CODE        | (301\|302)                             |
+| REDIRECT_LPORT       | (80/8080 etc..)                        |
